@@ -1,0 +1,23 @@
+(1) run the following query to create the database..........
+
+CREATE DATABASE smms;
+USE smms;
+CREATE TABLE bdb (
+    Itemname varchar(100),
+    Quantity varchar(5),
+    Price int(11)
+);
+CREATE TABLE employ (
+    EID varchar(100),
+    EName varchar(100),
+    ESalary int(20),
+    PRIMARY KEY (EID)
+);  
+CREATE TABLE iap (
+    ID int(11),
+    Item varchar(60),
+    Quantity varchar(5),
+    Price int(11),
+    Stock float,
+    PRIMARY KEY (ID)
+);    
