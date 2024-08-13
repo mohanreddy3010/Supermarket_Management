@@ -1,2 +1,4 @@
-# Supermarket_Management
-A software designed to manage supermarket in a digitalized way. Using this we can update stock details and employee details of a Supermarket and even we can create bills....
+Developed a comprehensive supermarket management system using HTML, CSS, JavaScript, PHP, and SQL. The system
+includes efficient stock inventory management, employee data handling, and accurate bill generation. Designed with a
+user-friendly interface to ensure easy navigation, the software enhances supermarket operations by streamlining processes and
+maintaining data security.
